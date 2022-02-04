@@ -1,0 +1,81 @@
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+* {
+  all: unset;
+  scroll-behavior: smooth;
+}
+body {
+  all: unset;
+}
+html{
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+  margin-top: 0;
+  padding: 0;
+  background-color: #d6e5fa;
+}
+.navbar-brand {
+  font-size: 1.5rem;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: "Pacifico", cursive;
+}
+.d-block {
+  height: 400px;
+}
+a {
+  text-decoration: none;
+  text-transform: none;
+  cursor: pointer;
+}
+.para {
+  font-family: "Pacifico", cursive;
+}
+.image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.img1 {
+  width: 500px;
+  height: 500px;
+}
+.design{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.img2{
+  width: 210px;
+  height: 297px;
+  margin: 5px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+

@@ -1,0 +1,25 @@
+font-family: 'Lobster', cursive;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Quintessential', cursive;
+
+  <div>  <div id ="home" class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="pic2.jfif" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    <h2>Welcome to My Site !</h2>
+                    <p class="para">Yah its me, <b> AMAN GUPTA </b></p>
+                    
+                </div>
+            </div>
+            
+    </div>
+    </div>
+    
+    <div class="container-fluid image">
+        <h3 class="animate__animated animate__flash animate__infinite infinite animate__delay-5s"> 
+            Hi , Hope you are fine
+        </h3>
+       <h3><small class="text-muted">-> Just Check Out Some Designs by me</small></h3>
+        <img src="amanweb.png" alt="" class="img-fluid img1">
+    </div> 
